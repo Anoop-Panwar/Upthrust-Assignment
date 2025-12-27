@@ -2,7 +2,7 @@
 
 This repository contains my submission for the **Upthrust Frontend Design Challenge**. The goal was to convert a specific Figma design into a fully functional, responsive website using **pure HTML and CSS** (no frameworks).
 
-### 🔗 [View Live Demo Here]([https://anoop-panwar.github.io/Upthrust-Assignment/])
+### 🔗 [View Live Demo Here](https://anoop-panwar.github.io/Upthrust-Assignment/)
 
 ## 🛠 Tech Stack
 * **HTML5:** Semantic structure.
