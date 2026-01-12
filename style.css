@@ -298,7 +298,7 @@ h1{
     margin-right: 60px;
     height: 1017px;
     overflow: hidden;
-    
+    mask-image: linear-gradient(to bottom, transparent, black 10%, black 90%, transparent);
    
 }
 
@@ -500,9 +500,9 @@ h3{
 
 .vector-circle{
     position: absolute;
-    width: 30px;
-    top: 140px;
-    left: 125px;
+    width: 50px;
+    top: 130px;
+    left: 117px;
 
 }
 
@@ -537,7 +537,3 @@ h3{
     transform: rotate(-45deg);
 
 }
-
-
-
-
