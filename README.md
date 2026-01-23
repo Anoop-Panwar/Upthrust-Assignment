@@ -1,7 +1,10 @@
-# Upthrust Landing Page Challenge 🚀
+# D2C Marketing Agency Landing Page 🚀
 
-This repository contains my submission for the **Upthrust Frontend Design Challenge**. The goal was to convert a specific Figma design into a fully functional, responsive website using **pure HTML and CSS** (no frameworks).
-
+* Converted high-fidelity Figma designs into a pixel-perfect, fully responsive interface using Semantic HTML5.
+* Achieved 100% responsiveness across mobile, tablet, and desktop using CSS Grid and Flexbox architectures.
+* Implemented complex UI interactions, including infinite scroll carousels and accordions, using pure CSS (no JavaScript/Frameworks) to optimize load performance.
+* Ensured semantic HTML structure for improved accessibility and SEO standards.
+  
 ### 🔗 [View Live Demo Here](https://anoop-panwar.github.io/Upthrust-Assignment/)
 
 ## 🛠 Tech Stack
