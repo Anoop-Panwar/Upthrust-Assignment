@@ -7,6 +7,8 @@
   
 ### 🔗 [View Live Demo Here](https://anoop-panwar.github.io/Upthrust-Assignment/)
 
+### 🔗 [Figma Design Here]([https://anoop-panwar.github.io/Upthrust-Assignment](https://www.figma.com/design/un1DRwi9UoyXz9auWFVFjv/Assignment?node-id=1-180&t=szZl2wNOUTFdgJDc-1%27)/)
+
 ## 🛠 Tech Stack
 * **HTML5:** Semantic structure.
 * **CSS3:** Custom styling including Flexbox, CSS Grid, and Keyframe animations.
