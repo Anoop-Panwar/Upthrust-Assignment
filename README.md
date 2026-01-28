@@ -7,7 +7,7 @@
   
 ### 🔗 [View Live Demo Here](https://anoop-panwar.github.io/Upthrust-Assignment/)
 
-### 🔗 [Figma Design Here](https://anoop-panwar.github.io/Upthrust-Assignment](https://www.figma.com/design/un1DRwi9UoyXz9auWFVFjv/Assignment?node-id=1-180&t=szZl2wNOUTFdgJDc-1%27)/)
+### 🔗 [Figma Design Here](https://www.figma.com/design/un1DRwi9UoyXz9auWFVFjv/Assignment?node-id=1-180/)
 
 ## 🛠 Tech Stack
 * **HTML5:** Semantic structure.
